@@ -17,4 +17,4 @@ No Leonardo.ai também digitei caracteriticas fisicas que gostaria que os person
 ## 🚀 Resultados
 O resultado supeerou o que imaginava. Espero que gostem desse pequeno conto romântico.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/Leticiassb/lab-natty-or-not/blob/main/Ebook%20-%20Principais%20Pilares%20da%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java.pdf)
+[LINK PARA O E-BOOK AQUI](https://github.com/ArielaFontes/lab-natty-or-not/blob/main/Encontros%20Al%C3%A9m%20do%20Ocean.pdf)
